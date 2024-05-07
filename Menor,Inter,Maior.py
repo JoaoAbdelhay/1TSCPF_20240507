@@ -26,3 +26,4 @@ if n2 > n3:
     n3 = t
 
 print(f'são menor:{n1}, inter:{n2}, maior:{n3}')
+print("teste de commit")
